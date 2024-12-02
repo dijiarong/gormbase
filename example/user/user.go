@@ -1,7 +1,7 @@
 package user
 
 import (
-	"github.com/gormbase"
+	"github.com/dijiarong/gormbase"
 
 	"gorm.io/gorm"
 )

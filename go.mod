@@ -1,4 +1,4 @@
-module github.com/gormbase
+module github.com/dijiarong/gormbase
 
 go 1.20
 
