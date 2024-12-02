@@ -1,7 +1,7 @@
 package model
 
 import (
-	"gormbase/example/user"
+	"github.com/gormbase/example/user"
 
 	"gorm.io/gorm"
 )

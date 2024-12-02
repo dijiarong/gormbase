@@ -1,6 +1,6 @@
 package model
 
-import "gormbase/example/user"
+import "github.com/gormbase/example/user"
 
 type DB interface {
 	Transaction(transaction func(tx DB) error) error
